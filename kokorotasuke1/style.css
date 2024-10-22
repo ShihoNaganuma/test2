@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+body{
+ text-align: center;
+ font-family: "Hiragino 明朝 ProN","ヒラギノ角ゴ　Pro W3",
+ Meiryo,"MS PGohtic",sans-serif;
+ color: #6E4825;
+ height: auto;  
+}
+
+h1{
+ font-size: 30px;
+}
+
+.jibun{
+ font-size: 20px;
+}
+
+button{
+ background: #acc99d;
+ font-size: 24px;
+}
+
+.p1,.p2,.p3{
+ font-size: 24px;
+}
+
+.wrapper{
+ margin:0% 10% 0% 10%;
+}
+
+ footer{
+  text-align: center;
+  width: 100%;
+  height: auto; 
+ }
+
+img{
+  margin:0 auto;
+}
+
+.ph1{
+  margin-top: -32px;
+} 
+
+.nami{
+  margin-top: 100px;
+}
